@@ -218,5 +218,8 @@ MIT License - 可自由使用、修改、分发
 
 ---
 ## 😄 其他说明
-** 如您使用本项目的UI设计，请自行更改位于文件UI.cpp下void drawMainUI函数中outtextxy模块的'c'版权说明 和 asserts/bg/images.的背景图资源 ** 😄
-配置readme_dev用于详细了解技术架构与算法设计
+
+**如使用本项目的UI设计，
+请自行更改-文件UI.cpp-函数void drawMainUI-模块outtextxy的'c'版权说明 
+和 asserts/bg/images.的背景图资源**
+详细的技术架构与算法设计见readme_dev.md
