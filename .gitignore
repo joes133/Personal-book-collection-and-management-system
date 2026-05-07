@@ -1,0 +1,64 @@
+# ===========================  
+# Visual Studio  
+# ===========================  
+.vs/  
+*.user  
+*.suo  
+*.tlog  
+*.lastcodeanalysissucceeded  
+*.projectloadsnapshot  
+*.vssscc  
+  
+# ===========================  
+# 编译输出  
+# ===========================  
+x64/  
+Debug/  
+Release/  
+Win32/  
+*.obj  
+*.pdb  
+*.exe  
+*.dll  
+*.ilk  
+*.exp  
+*.manifest  
+*.res  
+*.pch  
+*.idb  
+*.ipdb  
+*.iobj  
+  
+# ===========================  
+# 中间文件  
+# ===========================  
+*.log  
+*.tmp  
+*.temp  
+*.bak  
+*.old  
+  
+# ===========================  
+# 用户特定文件  
+# ===========================  
+*.userosscache  
+*.sln.docstates  
+ipch/  
+*.aps  
+*.ncb  
+*.opt  
+*.plg  
+*.sdf  
+*.cache  
+*.opensdf  
+*.VC.db  
+*.VC.VC.opendb  
+  
+# ===========================  
+# 其他  
+# ===========================  
+.DS_Store  
+Thumbs.db  
+*.swp  
+*.swo  
+*~  

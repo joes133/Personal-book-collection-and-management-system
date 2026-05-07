@@ -1,0 +1,21 @@
+1|The C Programming Language|Computer Science|2026-03-01|89|Kernighan and Ritchie classic
+2|Introduction to Algorithms|Computer Science|2026-03-02|119|CLRS algorithm textbook
+3|Clean Code|Software Engineering|2026-03-03|79|Code quality and best practices
+4|活着|文学|2026-03-04|45|余华代表作
+5|Operating System Concepts|Computer Science|2026-03-05|108|OS fundamentals
+7|The Pragmatic Programmer|Software Engineering|2026-03-07|68|Pragmatic development guide
+8|Deep Learning|Artificial Intelligence|2026-03-08|128|Goodfellow AI reference
+9|人工智能：一种现代方法|人工智能|2026-03-09|136|AIMA中文版
+10|Guns, Germs, and Steel|History|2026-03-10|58|World history perspective
+11|人类简史|历史|2026-03-11|66|尤瓦尔赫拉利
+12|The Selfish Gene|Biology|2026-03-12|54|Evolutionary biology classic
+13|时间简史|物理|2026-03-13|62|霍金科普著作
+14|The Feynman Lectures on Physics|Physics|2026-03-14|148|Foundational physics lectures
+15|Thinking, Fast and Slow|Psychology|2026-03-15|64|Behavioral decision making
+16|影响力|心理学|2026-03-16|52|说服心理学经典
+17|The Wealth of Nations|Economics|2026-03-17|72|Classical economics
+18|聪明的投资者|经济|2026-03-18|69|价值投资原则
+19|To Kill a Mockingbird|Literature|2026-03-19|49|American classic novel
+20|红楼梦|文学|2026-03-20|58|中国古典名著
+6|计算机网络666|教材|2026-03-21|88|谢希仁教材,已修改
+21|被讨厌的勇气|心理|2026-03-23|32|111
